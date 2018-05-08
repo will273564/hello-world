@@ -3,3 +3,8 @@
 
 # This text will display images
 ![alt text](https://i.gifer.com/78fl.gif)
+
+<dl>
+  <dt>Shopping list</dt>
+  <dd>- eggs</dd>
+</dl>
